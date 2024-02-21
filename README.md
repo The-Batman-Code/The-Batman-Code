@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kar_tik1972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kar_tik1972" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kartik-saxena-5b6157254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartik-saxena-5b6157254/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartik-saxena-5b6157254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-saxena-5b6157254/" height="30" width="40" /></a>
 <a href="https://instagram.com/kar.ti.ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kar.ti.ck" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ks2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ks2004" height="30" width="40" /></a>
 </p>
