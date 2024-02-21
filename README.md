@@ -1,8 +1,8 @@
-# Bello, I am Kartik👋
+<h1 align="center"> Bello, I am Kartik👋</h1>
 
-### Thanks for reaching till here. Let me tell you a bit about myself...
+## Thanks for reaching till here. Let me tell you a bit about myself...
 
-
+- I am currently pursuing 
 
 <!--
 **The-Batman-Code/The-Batman-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
