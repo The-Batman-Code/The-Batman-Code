@@ -1,4 +1,8 @@
-### Hi there 👋
+# Bello, I am Kartik👋
+
+### Thanks for reaching till here. Let me tell you a bit about myself...
+
+
 
 <!--
 **The-Batman-Code/The-Batman-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
